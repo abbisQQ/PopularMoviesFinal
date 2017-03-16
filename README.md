@@ -11,7 +11,10 @@ a progressbar so the user know the app is working as intended and its not broken
 
 ![screenshot_20170316-164402](https://cloud.githubusercontent.com/assets/21143253/24002346/2b9f1c26-0a69-11e7-994f-6c9be756215e.png)
 ![screenshot_20170316-164312](https://cloud.githubusercontent.com/assets/21143253/24002341/277e7ef2-0a69-11e7-8359-5e5ee61b13f5.png)
-![screenshot_20170316-164358](https://cloud.githubusercontent.com/assets/21143253/24002364/34dc46ce-0a69-11e7-9024-02ef1642793b.png)
+
+![screenshot_20170316-170320](https://cloud.githubusercontent.com/assets/21143253/24002928/aba8f774-0a6a-11e7-881e-0679aa5b8feb.png)
+
+
 
 
 ![screenshot_20170316-164320](https://cloud.githubusercontent.com/assets/21143253/24002374/395f9714-0a69-11e7-8635-5e4059e31672.png)
