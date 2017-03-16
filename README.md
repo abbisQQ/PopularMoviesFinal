@@ -16,7 +16,6 @@ a progressbar so the user know the app is working as intended and its not broken
 
 
 
-
 ![screenshot_20170316-164320](https://cloud.githubusercontent.com/assets/21143253/24002374/395f9714-0a69-11e7-8635-5e4059e31672.png)
 
 
