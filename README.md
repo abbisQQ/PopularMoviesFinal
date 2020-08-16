@@ -1,6 +1,6 @@
 # PopularMoviesFinal
 
-This is a project from udacity course fast track.
+This is a project for udacity course fast track.
 
 Its an app that uses moviesdb API(notice that you need an api key for this app to work) to fetch movie data and present it to the user.
 The main layput displays the movie posters in a recyclerview, the user may short them by popularity or rating, clicking on a poster you 
